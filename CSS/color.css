@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(1 0 33);
+    color: white;
+}
+
+nav {
+    background-color: rgb(18, 18, 62);
+}
+
+#element1 {
+    color: #00ff95;
+}
+
+#element {
+    color: #00ff95;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+nav ul li a:hover {
+    text-decoration: none;
+    color: #00ff95;
+}
+
+.links {
+    margin-top: 30px;
+}
+
+.linkedin {
+    color: #fff;
+    background: rgb(23, 23, 212);
+}
+
+.github {
+    color: #fff;
+    background: rgb(23, 23, 212);
+}
+
+.text-grey {
+    color: grey;
+}
+
+.box {
+    background-color: #fff;
+}
+
+.secondsection .vertical {
+    background-color: #fff;
+}
+
+.vertical-desc {
+    color: grey;
+}
